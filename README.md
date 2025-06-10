@@ -1,6 +1,6 @@
 # ChatGPT 中文版｜免费 ChatGPT镜像网站推荐（支持 GPT-4.1、GPT-4o及o1、o3、o4，无需翻墙）【6月最新更新】
 
-一站式使用 **[ChatGPT 中文版](https://chat.lanjing.pro)**，**无需翻墙**，即可使用 GPT-4.1、GPT-4o、o1、o3、o4及本地化功能~
+一站式使用 **[ChatGPT 中文版](https://chat.lanjingai.org)**，**无需翻墙**，即可使用 GPT-4.1、GPT-4o、o1、o3、o4及本地化功能~
 
 本项目专为国内用户打造的**ChatGPT中文版指南**，收录国内优质的 [**ChatGPT 镜像网站**](https://xsimplechat.com) 和**官网使用教程**，支持GPT-4o等主流模型，无需翻墙，免费体验，满足在工作学习、日常生活中的需要~
 
@@ -8,14 +8,14 @@
 
 ## 🚀 直达入口
 
-**ChatGPT 中文版**入口：**[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
-**ChatGPT 镜像网站**直达：**[https://xsimplechat.com/](https://xsimplechat.com/)**
+**ChatGPT 中文版**入口：**[https://chat.lanjingai.org](https://chat.lanjingai.org)**   
+**ChatGPT 镜像网站**直达：**[https://xsimplechat.com](https://xsimplechat.com/)**
 
 ---
 
 ## ChatGPT 中文版是什么？
 
-[**ChatGPT 中文版**](https://chat.lanjing.pro) 是基于 OpenAI 的 ChatGPT 模型开发的中文使用版本，专为国内用户提供高效、准确的AI沟通体验。   
+[**ChatGPT 中文版**](https://chat.lanjingai.org) 是基于 OpenAI 的 ChatGPT 模型开发的中文使用版本，专为国内用户提供高效、准确的AI沟通体验。   
 相较于官方原版，**中文版**更适合中国用户，优势体现在：
 
 - **🈶 中文交互**：优化中文语境下的理解与生成，满足学习、办公等多元需求
@@ -31,7 +31,7 @@
 | 中文站网址                            | 支持模型                         | 稳定性 | 功能亮点                                                         |
 |---------------------------------------|----------------------------------|--------|------------------------------------------------------------------|
 | **[xsimplechat.com](https://xsimplechat.com)** | GPT-4, GPT-4o, o1, o3 | ⭐⭐⭐⭐⭐  | 支持 ChatGPT 全模型，支持 AI 绘画、AI 助手、AI 插件，适合学生党和打工人 |
-| **[chat.lanjing.pro](https://chat.lanjing.pro)**  | GPT-4, GPT-3.5, o1, o3, Claude 4 sonnet, Gemini 2.5 Pro  | ⭐⭐⭐⭐⭐  | 使用简单，先进大模型，适合新手用户       |
+| **[chat.lanjingai.org](https://chat.lanjingai.org)**  | GPT-4, GPT-3.5, o1, o3, Claude 4 sonnet, Gemini 2.5 Pro  | ⭐⭐⭐⭐⭐  | 使用简单，先进大模型，适合新手用户       |
 | **[chat.lify.vip](https://chat.yixiaai.com)**   | GPT-4, GPT-4o, o1, o3 | ⭐⭐⭐⭐⭐  | 支持 o1、o3 和 R1 等全模型，支持 AI 写作、AI 编程、AI 办公，适应多种行业需求   |
 | **[chat.lanjingai.org](https://chat.lanjingai.org)** | GPT-4, GPT-4o, o1     | ⭐⭐⭐⭐   | 提供 AI 使用指南，ChatGPT 中文版使用指南                       |
 | **[yixiaai.cn](https://yixiaai.cn)**           | GPT-4, GPT-3.5, 4o mini           | ⭐⭐⭐⭐   | AI 工具导航网站，汇聚大量工具，满足你的各种需求                   |
@@ -67,7 +67,7 @@
 
 **直接使用镜像站**
 
-1. **访问推荐镜像**：如 [chat.lanjing.pro](https://chat.lanjing.pro)
+1. **访问推荐镜像**：如 [chat.lanjingai.org](https://chat.lanjingai.org)
 2. **快捷注册**：支持邮箱一键注册
 3. **选择AI模型**：按需选用ChatGPT、Claude、Gemini、Grok等强大模型
 4. **畅聊体验**：支持翻译、写作、办公等多种中文对话功能
